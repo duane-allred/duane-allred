@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! :)
 I'm a coder who loves Minecraft!
 I'm currently working on some projects with friends, I need to learn Python...
 Ask me about the American Heritage Discovery Space Center!
